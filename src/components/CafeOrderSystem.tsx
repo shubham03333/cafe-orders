@@ -737,7 +737,7 @@ const CafeOrderSystem = () => {
           <div class="center">
             
           </div>
-          <div class="center bold">Adda Cafe</div>
+          <div class="center bold">Bill Easy</div>
           <div class="center">Order #${order.order_number}</div>
           <div class="center">${new Date().toLocaleString()}</div>
 
@@ -1478,7 +1478,7 @@ const CafeOrderSystem = () => {
             <div className="p-3 print:p-1">
               {/* Restaurant Header */}
               <div className="text-center mb-2 print:mb-1">
-                <h1 className="text-base font-bold text-gray-900 print:text-black print:text-lg">Adda Cafe</h1>
+                <h1 className="text-base font-bold text-gray-900 print:text-black print:text-lg">Bill Easy</h1>
               </div>
 
               {/* Order Header */}
@@ -1518,7 +1518,7 @@ const CafeOrderSystem = () => {
               </div>
 
               {/* Google Review QR Code */}
-              <GoogleReviewQR size={60} />
+              {/* <GoogleReviewQR size={60} /> */}
 
               {/* Footer */}
               <div className="text-center text-xs text-gray-500 print:text-black mb-2 print:mb-1">

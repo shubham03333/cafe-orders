@@ -1,6 +1,6 @@
 {
-  "name": "Adda Cafe Orders",
-  "short_name": "Adda Cafe",
+  "name": "Bill Easy",
+  "short_name": "Your Cafe",
   "description": "Cafe order management system",
   "start_url": "/",
   "display": "standalone",

@@ -76,7 +76,7 @@ export async function GET(
 
   commands.push({
     type: 0,
-    content: 'ADDA CAFE',
+    content: 'Your Restaurant',
     bold: 1,
     align: 1,
     format: 2

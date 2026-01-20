@@ -101,7 +101,7 @@ export default function CustomerLoginPage() {
               <button
               type="button"
               onClick={() => {
-                alert('Please contact Adda Cafe at +91-7558379410 for password reset assistance.');
+                alert('Please contact Bill Easy at +91-7558379411 for password reset assistance.');
               }}
               className="text-red-600 hover:text-red-700 text-sm font-medium"
             >

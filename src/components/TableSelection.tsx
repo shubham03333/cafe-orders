@@ -99,7 +99,7 @@ const TableSelection = ({ onTableSelect, onOccupiedTableSelect, onBack, onTakeaw
         <div className="absolute inset-0 bg-black/10 rounded-2xl"></div>
         <div className="relative z-10">
           <img src="/logo.png" alt="Logo" className="w-16 h-16 mx-auto mb-4" />
-          {/* <h1 className="text-2xl font-bold text-white mb-2">Adda Cafe</h1> */}
+          {/* <h1 className="text-2xl font-bold text-white mb-2">Bill Easy</h1> */}
           {/* <p className="text-red-100">Select your table</p> */}
         </div>
       </div>

@@ -13,11 +13,11 @@ export async function POST(request: NextRequest) {
   try {
     // Return contact information for password reset
     return NextResponse.json({
-      message: 'Please contact Adda Cafe directly for password reset assistance.',
+      message: 'Please contact Bill Easy directly for password reset assistance.',
       contact_info: {
-        phone: '+91-7558379410',
-        whatsapp: '+91-7558379410',
-        email: 'support@addacafe.com'
+        phone: '+91-7558379411',
+        whatsapp: '+91-7558379411',
+        email: 'shubhamja3333@gmail.com'
       },
       instructions: 'Call or WhatsApp us with your registered mobile number and we will help you reset your password.'
     });

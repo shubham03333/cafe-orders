@@ -4,7 +4,7 @@ import "./globals.css";
 import { CustomerAuthProvider } from "@/contexts/CustomerAuthContext";
 
 export const metadata: Metadata = {
-  title: "Adda Cafe Orders",
+  title: "Bill Easy Orders",
   description: "Cafe order management system",
   icons: {
     icon: '/favicon.ico',
